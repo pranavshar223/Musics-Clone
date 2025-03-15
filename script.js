@@ -14,15 +14,15 @@
 
  let songs=[
         {songName: 'Hauli Hauli - Khel Khel Mein', filepath: '128-Hauli Hauli - Khel Khel Mein 128 Kbps.mp3' ,coverpath: 'songimg1.jpg' },
-        {songName: 'Aayi Nai - Stree 2', filepath: '128-Aayi Nai - Stree 2 128 Kbps.mp3', coverpath: 'songimg1.jpg'},
-        {songName: 'Apna Bana Le - Bhediya', filepath: '128-Apna Bana Le - Bhediya 128 Kbps.mp3', coverpath: 'songimg1.jpg'},
-        {songName: 'Gori Hai Kalaiyan - Mere Husband Ki Biwi', filepath: '128-Gori Hai Kalaiyan - Mere Husband Ki Biwi 128 Kbps.mp3', coverpath: 'songimg1.jpg'},
-        {songName: 'Hua Main - Animal', filepath: '128-Hua Main - Animal 128 Kbps.mp3', coverpath: 'songimg1.jpg'},
-        {songName: 'Leke Prabhu Ka Naam - Tiger 3', filepath: '128-Leke Prabhu Ka Naam - Tiger 3 128 Kbps.mp3', coverpath: 'songimg1.jpg'},
-        {songName: 'Hum Toh Deewane - Yasser Desai', filepath: '128-Hum Toh Deewane - Yasser Desai 128 Kbps.mp3', coverpath: 'songimg1.jpg'},
-        {songName: 'Mera Na - Sidhu Moose Wala', filepath: '128-Mera Na - Sidhu Moose Wala 128 Kbps.mp3', coverpath: 'songimg1.jpg'},
-        {songName: 'Toofan - KGF Chapter 2', filepath: '128-Toofan - KGF Chapter 2 128 Kbps.mp3', coverpath: 'songimg1.jpg'},
-        {songName: 'Tu Hai Champion - Chandu Champion',filepath: '128-Tu Hai Champion - Chandu Champion 128 Kbps.mp3', coverpath: 'songimg1.jpg'}
+        {songName: 'Aayi Nai - Stree 2', filepath: '128-Aayi Nai - Stree 2 128 Kbps.mp3', coverpath: 'songimg2.jpg'},
+        {songName: 'Apna Bana Le - Bhediya', filepath: '128-Apna Bana Le - Bhediya 128 Kbps.mp3', coverpath: 'songimg3.jpg'},
+        {songName: 'Gori Hai Kalaiyan - Mere Husband Ki Biwi', filepath: '128-Gori Hai Kalaiyan - Mere Husband Ki Biwi 128 Kbps.mp3', coverpath: 'songimg4.jpg'},
+        {songName: 'Hua Main - Animal', filepath: '128-Hua Main - Animal 128 Kbps.mp3', coverpath: 'songimg5.jpg'},
+        {songName: 'Leke Prabhu Ka Naam - Tiger 3', filepath: '128-Leke Prabhu Ka Naam - Tiger 3 128 Kbps.mp3', coverpath: 'songimg6.jpg'},
+        {songName: 'Hum Toh Deewane - Yasser Desai', filepath: '128-Hum Toh Deewane - Yasser Desai 128 Kbps.mp3', coverpath: 'songimg7.jpg'},
+        {songName: 'Mera Na - Sidhu Moose Wala', filepath: '128-Mera Na - Sidhu Moose Wala 128 Kbps.mp3', coverpath: 'songimg8.jpg'},
+        {songName: 'Toofan - KGF Chapter 2', filepath: '128-Toofan - KGF Chapter 2 128 Kbps.mp3', coverpath: 'songimg9.jpg'},
+        {songName: 'Tu Hai Champion - Chandu Champion',filepath: '128-Tu Hai Champion - Chandu Champion 128 Kbps.mp3', coverpath: 'songimg10.jpg'}
  ]
 
 
